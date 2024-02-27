@@ -6,7 +6,7 @@
 - 💻 I’m currently working on enhancing my coding skills.
 - 🌱 I’m currently learning C# and C++ to expand my programming knowledge.
   
-## Languages and Tools:
+## Languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
