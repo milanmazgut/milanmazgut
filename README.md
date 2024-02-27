@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning C# and C++ to expand my programming knowledge.
   
 ## Languages and Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
