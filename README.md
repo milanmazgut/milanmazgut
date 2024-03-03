@@ -1,4 +1,4 @@
-# Hi there, I'm Milan Mazgut 👋
+# Hi there, I'm Milan Mažgút 👋
 
 ## About Me
 - 📸 I'm passionate about photography.
